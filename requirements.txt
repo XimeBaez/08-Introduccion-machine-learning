@@ -3,7 +3,3 @@ pandas
 requests
 seaborn
 matplotlib
-scipy
-scikit-learn
-plotly
-squarify
